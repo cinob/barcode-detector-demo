@@ -1,11 +1,4 @@
 export default defineNuxtConfig({
-  typescript: {
-    tsConfig: {
-      compilerOptions: {
-        moduleResolution: 'bundler'
-      }
-    }
-  },
   app: {
     head: {
       title: 'demo',
